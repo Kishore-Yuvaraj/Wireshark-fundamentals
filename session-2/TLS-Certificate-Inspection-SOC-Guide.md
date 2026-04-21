@@ -528,7 +528,4 @@ When decision tree is inconclusive:
 | PCAP + TLS decryption | 🔴 1 hour | Encrypted data | Wireshark + keys | Full payload inspection |
 
 ---
-
-**Use these techniques in your Session 2 write-up to show you think like a professional SOC analyst.**
-
 *Kishore Yuvaraj | April 21, 2026*
