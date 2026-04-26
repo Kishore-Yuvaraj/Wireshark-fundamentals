@@ -192,7 +192,7 @@ TLS_AES_256_GCM_SHA384
 
 ### What the TCP Stream Looks Like
 
-![TCP Stream - Encrypted HTTPS Data](screenshots/tcp-stream-encrypted.png)
+![TCP Stream - Encrypted HTTPS Data](session-2/screenshots/tcp-stream-encrypted.png)
 
 *Red = Client (your browser) sending encrypted data to server. Blue = Server (Google) sending encrypted response. The gibberish text confirms encryption is working correctly ✅*
 
@@ -280,7 +280,7 @@ Any check fails → RED FLAG — block IP, escalate to security team
 | [`Tls_HandShake.pcapng`](Tls_HandShake.pcapng) | Live capture — 5,538 packets of real HTTPS traffic. Open in Wireshark to reproduce this analysis. |
 | [`wireshark-session2-writeup.md`](wireshark-session2-writeup.md) | This write-up — full analysis with SOC perspective |
 | [`TLS-Certificate-Inspection-SOC-Guide.md`](TLS-Certificate-Inspection-SOC-Guide.md) | Reference guide for TLS certificate validation techniques |
-| [`screenshots/tcp-stream-encrypted.png`](screenshots/tcp-stream-encrypted.png) | TCP stream showing encrypted HTTPS data |
+| [`tcp-stream-encrypted.png`](session-2/screenshots/tcp-stream-encrypted.png) | TCP stream showing encrypted HTTPS data |
 
 ---
 
