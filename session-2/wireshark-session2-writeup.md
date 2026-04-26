@@ -297,3 +297,4 @@ Session 3 will show how **malicious traffic compares** to the legitimate HTTPS c
 
 **Kishore Yuvaraj** | Erode, Tamil Nadu, India | April 21, 2026  
 *Wireshark Fundamentals — Session 2 Complete ✅*
+
